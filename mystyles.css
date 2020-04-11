@@ -1,7 +1,7 @@
 *|h2 {
   text-align: center;
-  font-family: Kohinoor Devanagari Medium;
-  font-size: 20px;
+  font-family: Spantaran;
+  font-size: x-large;
   color: #4f2683;
   font-style: normal;
   font-weight: normal;
@@ -10,7 +10,7 @@
   background-color: white;
 }
 *|body {
-  font-family: Kohinoor Devanagari Medium;
+  font-family: Spantaran;
   color: black;
   background-color: white;
   font-weight: inherit;
@@ -22,57 +22,17 @@
 *|h1 {
   text-transform: capitalize;
   font-style: normal;
-  font-size: 40px;
-  font-family: Kohinoor Devanagari Medium;
+  font-size: 50px;
+  font-family: Spantaran;
   color: black;
   font-weight: inherit;
 }
 *|h3 {
   font-weight: lighter;
-  font-size: 30px;
+  font-size: 40px;
   text-transform: capitalize;
-  font-family: Kohinoor Devanagari Medium;
+  font-family: Spantaran;
   font-style: normal;
   color: black;
   line-height: 0px;
 }
-<body style="background-image: url(images/websitebackground.jpg);">
-<table style="width: 1000px; height: 200px; text-align: left; margin-left: auto; margin-right: auto; background-color: rgb(0, 0, 0);" border="1" cellpadding="2" cellspacing="2">
-
-  <tbody>
-    <tr>
-      <td style="vertical-align: middle; text-align: center; width: 1000px; background-color: rgb(255, 153, 51); height: 200px;" colspan="7">
-      <img title="banner" style="width: 1000px; height: 200px;" src="images/banner.jpg" alt="banner" align="middle"><br>
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align: middle; color: rgb(0, 0, 0); background-color: white; height: 100px; width: 100px; text-align: center;">
-      <h2><a style="text-decoration: none; color: rgb(18, 136, 7);" href="index.html"></a><br>
-      </h2>
-      </td>
-      <td style="vertical-align: middle; color: rgb(0, 0, 0); background-color: white; height: 100px; width: 100px; text-align: center;">
-      <h2><a style="text-decoration: none; color: rgb(18, 136, 7);" href="myfamily.html"></a><br>
-      </h2>
-      </td>
-      <td style="vertical-align: middle; color: rgb(0, 0, 0); background-color: white; height: 100px; width: 100px; text-align: center;">
-      <h2><a style="text-decoration: none; color: rgb(18, 136, 7);" href="homecountries.html"></a><br>
-      </h2>
-      </td>
-      <td style="vertical-align: middle; color: rgb(0, 0, 0); background-color: white; height: 100px; width: 100px; text-align: center;">
-      <h2><a style="text-decoration: none; color: rgb(18, 136, 7);" href="knownlanguages.html"></a><br>
-      </h2>
-      </td>
-      <td style="vertical-align: middle; color: rgb(0, 0, 0); background-color: white; height: 100px; width: 100px; text-align: center;">
-      <h2><a style="text-decoration: none; color: rgb(18, 136, 7);" href="mytattoo.html"></a><br>
-      </h2>
-      </td>
-      <td style="vertical-align: middle; color: rgb(0, 0, 0); background-color: white; height: 100px; width: 100px; text-align: center;">
-      <h2><a style="text-decoration: none; color: rgb(18, 136, 7);" href="mypet.html"></a><br>
-      </h2>
-      </td>
-      <td style="vertical-align: middle; color: rgb(0, 0, 0); background-color: white; height: 100px; width: 100px; text-align: center;">
-      <h2><a style="text-decoration: none; color: rgb(18, 136, 7);" href="myreferences.html"></a><br>
-      </h2>
-      </td>
-    </tr>
-  </tbody>
